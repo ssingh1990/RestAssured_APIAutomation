@@ -1,5 +1,7 @@
 package pojo;
-
+/**
+${Satendra Singh}
+*/
 public class DeletePlace {
 	
 	private String place_id;

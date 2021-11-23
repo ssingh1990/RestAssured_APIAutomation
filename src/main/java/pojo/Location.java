@@ -1,5 +1,7 @@
 package pojo;
-
+/**
+${Satendra Singh}
+*/
 public class Location {
 	
 	private double lat;
